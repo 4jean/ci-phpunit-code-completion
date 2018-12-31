@@ -1,5 +1,6 @@
-#Code Completion for CodeIgniter PHPUnit Tests
-Code Completion for CodeIgniter PHPUnit Tests
+# Code Completion for CodeIgniter PHPUnit Tests
+
+Code Completion for CodeIgniter PHPUnit Tests with PHPStorm or other IDE
 
 Using This https://github.com/kenjis/ci-phpunit-test for CodeIgniter PHPUnit 6.x Tests and you're unable to setup code completion with phpunit.phar in project root or include path. then use this method. Tested with PhPStorm
 
